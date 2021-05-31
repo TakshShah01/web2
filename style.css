@@ -1,0 +1,28 @@
+
+.header{
+    background-color: rgb(31, 122, 201);
+    display: flex;
+    justify-content: space-between;
+    font-style: italic;
+    
+}
+p{
+    
+font-size: large;
+    text-align: center;
+}
+.middle{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+*{
+    font-style: oblique;
+}
+
+
+.footer{
+    display: flex;
+justify-content: flex-end;
+    
+}
